@@ -1,0 +1,14 @@
+C:\Users\Ryle Fritz\IT342_G3_Acero_Lab1\backend\src\main\java\com\example\auth\config\AuthEntryPointJwt.java
+C:\Users\Ryle Fritz\IT342_G3_Acero_Lab1\backend\src\main\java\com\example\auth\config\SecurityConfig.java
+C:\Users\Ryle Fritz\IT342_G3_Acero_Lab1\backend\src\main\java\com\example\auth\service\UserDetailsServiceImpl.java
+C:\Users\Ryle Fritz\IT342_G3_Acero_Lab1\backend\src\main\java\com\example\auth\payload\response\JwtResponse.java
+C:\Users\Ryle Fritz\IT342_G3_Acero_Lab1\backend\src\main\java\com\example\auth\repository\UserRepository.java
+C:\Users\Ryle Fritz\IT342_G3_Acero_Lab1\backend\src\main\java\com\example\auth\controller\AuthController.java
+C:\Users\Ryle Fritz\IT342_G3_Acero_Lab1\backend\src\main\java\com\example\auth\payload\request\SignupRequest.java
+C:\Users\Ryle Fritz\IT342_G3_Acero_Lab1\backend\src\main\java\com\example\auth\config\JwtAuthenticationFilter.java
+C:\Users\Ryle Fritz\IT342_G3_Acero_Lab1\backend\src\main\java\com\example\auth\AuthApplication.java
+C:\Users\Ryle Fritz\IT342_G3_Acero_Lab1\backend\src\main\java\com\example\auth\controller\UserController.java
+C:\Users\Ryle Fritz\IT342_G3_Acero_Lab1\backend\src\main\java\com\example\auth\payload\response\MessageResponse.java
+C:\Users\Ryle Fritz\IT342_G3_Acero_Lab1\backend\src\main\java\com\example\auth\entity\User.java
+C:\Users\Ryle Fritz\IT342_G3_Acero_Lab1\backend\src\main\java\com\example\auth\payload\request\LoginRequest.java
+C:\Users\Ryle Fritz\IT342_G3_Acero_Lab1\backend\src\main\java\com\example\auth\config\JwtUtils.java
